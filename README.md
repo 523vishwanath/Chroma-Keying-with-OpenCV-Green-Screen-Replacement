@@ -16,7 +16,7 @@ A computer vision project that implements **Chroma Keying (Green Screen Matting)
 ### Step 1 — Input: Asteroid on Green Screen
 > *Raw footage — asteroid moving against a solid green background*
 
-![Asteroid on Green Screen](assets/asteroid_greenscreen.gif)
+![Asteroid on Green Screen](assets/greenscreen-asteroid.gif)
 
 ---
 
@@ -30,7 +30,7 @@ A computer vision project that implements **Chroma Keying (Green Screen Matting)
 ### Step 3 — Output: Asteroid Flying Through Space 🌌
 > *Final composited result after chroma keying*
 
-![Final Output](assets/asteroid_final.gif)
+![Final Output](assets/asteroidFinal.gif)
 
 ---
 
